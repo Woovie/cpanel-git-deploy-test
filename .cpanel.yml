@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/cp test.* "/home/${USER}/public_html/"
